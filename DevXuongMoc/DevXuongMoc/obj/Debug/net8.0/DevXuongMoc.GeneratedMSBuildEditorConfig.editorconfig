@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DevXuongMoc
+build_property.RootNamespace = DevXuongMoc
+build_property.ProjectDir = D:\DEVMASTER\netcoreMVC_learn\ASPNETCORE_MVC\DevXuongMoc\DevXuongMoc\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\DEVMASTER\netcoreMVC_learn\ASPNETCORE_MVC\DevXuongMoc\DevXuongMoc
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Areas/Admins/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Areas/Admins/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXExvZ2luXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Areas/Admins/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Areas/Admins/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Areas/Admins/Views/Shared/_Admins.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFNoYXJlZFxfQWRtaW5zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-itbw0ipwxr
+
+[D:/DEVMASTER/netcoreMVC_learn/ASPNETCORE_MVC/DevXuongMoc/DevXuongMoc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xms7e8weau
